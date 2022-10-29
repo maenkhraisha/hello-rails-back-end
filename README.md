@@ -23,7 +23,7 @@ https://github.com/maenkhraisha/hello-react-front-end
 ## Getting Started
 
 - You need to have `git` and `ruby` installed on your local computer.
-- Clone the repository by running `git@github.com:maenkhraisha/school_library.git`
+- Clone the repository by running `https://github.com/maenkhraisha/hello-rails-back-end.git`
 
 
 To get a local copy up and running follow these simple example steps.
